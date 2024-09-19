@@ -1,11 +1,6 @@
 /*
  * Connects the ESP8266 NodeMCU board to wifi and prints the IP address
  * 
- * by:
- * ROBOSANS
- * based on ThingSpeak Library example
- * 
- * https://www.robosans.com/
  */
 
 #include "ESP8266WiFi.h"
